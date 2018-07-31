@@ -15,8 +15,8 @@ else
 	Enter 3 arguments
 
 	arg 1: file to be encrypted
-	arg 2: file with public key
-	arg 3: file to write the encrypted file to
+	arg 2: file containing public key
+	arg 3: filename that we will write the encrypted file to
 	
 	e.g. sh command.sh message.txt pubkeyB.txt ciphertext.bin
 "
